@@ -1,0 +1,14 @@
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.exe
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.deps.json
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.runtimeconfig.json
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.runtimeconfig.dev.json
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.dll
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\bin\Debug\netcoreapp2.0\win7-x64\P12StatefulService.pdb
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.csprojAssemblyReference.cache
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.csproj.CoreCompileInputs.cache
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.AssemblyInfoInputs.cache
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.AssemblyInfo.cs
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.dll
+C:\Users\tempkadur\source\repos\P12Service\P12StatefulService\obj\Debug\netcoreapp2.0\win7-x64\P12StatefulService.pdb
