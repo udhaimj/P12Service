@@ -46,6 +46,7 @@ namespace P12StatefulService
             var sw = new StreamWriter(@"C:\P12\Logs\ServiceFabricAppLogs.txt", true);
             while (true)
             {
+                //Add time to file
                 LogMessage(Convert.ToString(DateTime.Now), sw);
                 await Task.Delay(TimeSpan.FromSeconds(10), cancellationToken);
             }
