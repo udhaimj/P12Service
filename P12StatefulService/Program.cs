@@ -22,6 +22,7 @@ namespace P12StatefulService
 
                 ServiceRuntime.RegisterServiceAsync("P12StatefulServiceType",
                     context => new P12StatefulService(context)).GetAwaiter().GetResult();
+                //testing
 
                 ServiceEventSource.Current.ServiceTypeRegistered(Process.GetCurrentProcess().Id, typeof(P12StatefulService).Name);
 
